@@ -1,0 +1,2 @@
+# EJS
+practice of EJS 
